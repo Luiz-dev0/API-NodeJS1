@@ -48,7 +48,3 @@ Métodos HTTP (GET, POST, PUT, DELETE)
 
 Como testar rotas com JSON
 
-
----
-
-Quer que eu adicione um estilo visual (como emojis nas seções e um banner de título)?
